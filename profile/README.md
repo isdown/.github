@@ -3,7 +3,9 @@
 
 # IsDown.app - Monitor all your third-party dependencies in one place
 
-Aggregate and monitor all your critical services' official status pages from one centralized dashboard. Instant alerts the moment an outage is detected. Say goodbye to constantly checking multiple sites for updates.
+[IsDown.app](https://isdown.app?utm_source=github-profile) - Aggregate and monitor all your critical services' official status pages from one centralized dashboard. Instant alerts the moment an outage is detected. Say goodbye to constantly checking multiple sites for updates.
+
+[Start a Free Trial →](https://isdown.app/users/sign_up?cta=github-profile)
 
 ## Know when your critical services are down
 
