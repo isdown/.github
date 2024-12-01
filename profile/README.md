@@ -67,7 +67,7 @@ SaaS rules the world, and all teams depend on them to do their most productive w
 - [Statuspage Integration](https://isdown.app/statuspage-integration)
 - [Statushub Integration](https://isdown.app/statushub-integration)
 
-[Add a service →](https://isdown.app/integrations/new)
+[Try it for free](https://isdown.app/users/sign_up)
 
 ## Check the status of the most popular services
 
