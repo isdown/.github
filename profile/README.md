@@ -88,6 +88,7 @@ SaaS rules the world, and all teams depend on them to do their most productive w
 - [Microsoft 365 current status & outage history](https://isdown.app/status/microsoft-365)
 - [Dropbox current status & outage history](https://isdown.app/status/dropbox)
 - [Zendesk current status & outage history](https://isdown.app/status/zendesk)
+- [Github current status & outage history](https://isdown.app/status/github)
 
 And many more! [See all services →](https://isdown.app/integrations)
 
