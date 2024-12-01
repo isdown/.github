@@ -86,8 +86,8 @@ SaaS rules the world, and all teams depend on them to do their most productive w
 - [Sendgrid current status & outage history](https://isdown.app/status/sendgrid)
 - [Slack current status & outage history](https://isdown.app/status/slack)
 - [Microsoft 365 current status & outage history](https://isdown.app/status/microsoft-365)
-[Dropbox current status & outage history](https://isdown.app/status/dropbox)
-[Zendesk current status & outage history](https://isdown.app/status/zendesk)
+- [Dropbox current status & outage history](https://isdown.app/status/dropbox)
+- [Zendesk current status & outage history](https://isdown.app/status/zendesk)
 
 And many more! [See all services →](https://isdown.app/integrations)
 
